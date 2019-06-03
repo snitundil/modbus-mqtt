@@ -1,4 +1,4 @@
-# modbus_mqtt
+# modbus-mqtt
 ## Python implementation of Modbus TCP + MQTT. Data can be written to/read from multiple MODBUS slave devices from a remote MQTT client. <br /><br />
 
 This code includes a **reg_config** option which allows the end user to select the registers to be used while writing and reading data. <br />
